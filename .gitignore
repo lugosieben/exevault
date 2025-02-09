@@ -1,3 +1,7 @@
+# exevault specific
+vault/
+entries.ini
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
